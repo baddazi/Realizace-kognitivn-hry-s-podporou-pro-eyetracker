@@ -1,0 +1,9 @@
+Tento soubor popisuje strukturu toho repozitáře.
+
+- Hra 	- Kořenová složka projektu hry (složka s projektem hry v Unity) 
+	- Spustitelná hra (složka se hrou určenou k ukamžitému spuštění)
+	- Uživatelská dokumentace, Návod na sestavení.pdf (pdf soubor s uživatelkou dokumentací a návodem na sestavení hry)
+
+
+- Text brakalářské práce	- Bakalářksá práce A17B0395P.pdf (bakalářské práce v pdf souboru)
+				- Bakalářksá práce A17B0395P latex.pdf (zip soubor obsahující veškeré soubory potřebné pro psaní práce v LaTeX)

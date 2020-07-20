@@ -1,0 +1,1889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55e7d05b-0fad-4a52-ad90-ee0d6adcd8bd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Calc1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="14" />
+              <folding>
+                <marker date="1595203821605" expanded="false" signature="6:122" ph="..." />
+                <marker date="1595203821605" expanded="true" signature="123:257" ph="/* Trida dedi od ACogGame a zajistuje pocitaci kognitivni minnihru, kde hrac musi tlacitkem urcit ANO/NE spravny  ... */" />
+                <marker date="1595203821605" expanded="true" signature="287:5349" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="294:379" ph="/* Abstraktni Funkce ktera vytvari ukolovou otazku a odpovedi na tlacitkach ... */" />
+                <marker date="1595203821605" expanded="true" signature="420:654" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="494:544" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="659:714" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595203821605" expanded="true" signature="763:1181" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="879:1146" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="1186:1241" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595203821605" expanded="true" signature="1284:1703" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="1400:1668" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="1708:1763" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595203821605" expanded="true" signature="1806:2226" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="1922:2191" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="2231:2286" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595203821605" expanded="true" signature="2331:2754" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="2447:2719" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="2759:2814" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595203821605" expanded="true" signature="2858:2917" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="2923:2978" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595203821605" expanded="true" signature="3022:3080" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="3086:3141" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595203821605" expanded="true" signature="3187:3247" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="3254:3292" ph="/* Vytvari minihru nasobeni ... */" />
+                <marker date="1595203821605" expanded="true" signature="3368:3910" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="3633:3701" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="3714:3849" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="3911:3947" ph="/* Vytvari minihru deleno ... */" />
+                <marker date="1595203821605" expanded="true" signature="4025:4521" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="4229:4315" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="4328:4451" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="4523:4565" ph="/* Vytvari minihru plus a minus ... */" />
+                <marker date="1595203821605" expanded="true" signature="4646:5347" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="4870:4937" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="4950:5017" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="5070:5138" ph="{...}" />
+                <marker date="1595203821605" expanded="true" signature="5151:5286" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/ColorTask.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3420">
+              <caret line="245" column="41" selection-start-line="245" selection-start-column="41" selection-end-line="245" selection-end-column="41" />
+              <folding>
+                <marker date="1595203821584" expanded="false" signature="6:95" ph="..." />
+                <marker date="1595203821584" expanded="true" signature="97:189" ph="/* Trida dedi od ACogGame a zajistuje vytvoreni kognitivni minhry pro barvu textu ... */" />
+                <marker date="1595203821584" expanded="true" signature="223:5402" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="233:335" ph="/* Vytvari ukolovou otazku a definjuje na jakych urovnich je minihra definovana ... */" />
+                <marker date="1595203821584" expanded="true" signature="376:638" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="450:500" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="643:701" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595203821584" expanded="true" signature="744:808" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="813:871" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595203821584" expanded="true" signature="915:979" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="984:1042" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595203821584" expanded="true" signature="1086:1150" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="1155:1213" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595203821584" expanded="true" signature="1257:1321" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="1365:1409" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="1414:1472" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595203821584" expanded="true" signature="1515:1559" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="1564:1622" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595203821584" expanded="true" signature="1667:1712" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="1714:1775" ph="/* Funkce vytvari narocnejsi verzi teto minihry ... */" />
+                <marker date="1595203821584" expanded="true" signature="1812:2154" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="2156:2213" ph="/* Funkce vytvari jednodusz verzi teto minihry ... */" />
+                <marker date="1595203821584" expanded="true" signature="2248:2375" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="2386:2440" ph="/* Funkce vytvari  konkretni ukol s barvami ... */" />
+                <marker date="1595203821584" expanded="true" signature="2496:4090" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="2585:2752" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="2674:2742" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="2843:3428" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="2988:3050" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="3275:3335" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="3441:4037" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="3599:3661" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="3885:3945" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="4095:4149" ph="/* Funkce pro zjisteni nazvu barvy ... */" />
+                <marker date="1595203821584" expanded="true" signature="4197:4792" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="4797:4862" ph="/* Funkce pro ziskani konretni barby ... */" />
+                <marker date="1595203821584" expanded="true" signature="4898:5400" ph="{...}" />
+                <marker date="1595203821584" expanded="true" signature="4933:5372" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/DayMonthYear.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="90" />
+              <folding>
+                <marker date="1595204797175" expanded="false" signature="6:44" ph="..." />
+                <marker date="1595204797175" expanded="true" signature="45:155" ph="/* Trida dedi od ACogGame a zajistuje kognitivni minihru pro otazku na aktualni den/datum. ... */" />
+                <marker date="1595204797175" expanded="true" signature="192:7775" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="203:245" ph="/* Vytvori otazku minihry. ... */" />
+                <marker date="1595204797175" expanded="true" signature="286:449" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="360:409" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="451:503" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595204797175" expanded="true" signature="542:571" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="573:625" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595204797175" expanded="true" signature="666:858" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="746:842" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="859:911" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595204797175" expanded="true" signature="952:1192" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="1032:1177" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="1193:1245" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595204797175" expanded="true" signature="1286:1479" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="1366:1462" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="1480:1532" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595204797175" expanded="true" signature="1571:1597" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="1598:1650" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595204797175" expanded="true" signature="1689:1884" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="1769:1869" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="1885:1937" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595204797175" expanded="true" signature="1978:2003" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="2004:2061" ph="/* Funkce vytvoreni minihry na otazku aktualniho dne ... */" />
+                <marker date="1595204797175" expanded="true" signature="2091:2408" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="2212:2289" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="2294:2372" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="2410:2450" ph="/* Funkce pro vypsani dnu v cestine ... */" />
+                <marker date="1595204797175" expanded="true" signature="2493:2793" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="2511:2775" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="2795:2843" ph="/* Funkce pro vytvoreni chybne odpovedi dnu ... */" />
+                <marker date="1595204797175" expanded="true" signature="2884:3491" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="2986:3446" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="3493:3561" ph="/* Funkce pro vytvoreni minihry na otazku celeho aktualnih data ... */" />
+                <marker date="1595204797175" expanded="true" signature="3590:4393" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="3834:4201" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="4228:4293" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="4298:4363" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="4394:4459" ph="/* Funkce pro vytvoreni minihry na otazku  aktualnih data ... */" />
+                <marker date="1595204797175" expanded="true" signature="4485:5058" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="4671:4796" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="4801:4870" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="4894:4959" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="4964:5029" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="5059:5123" ph="/* Funkce pro vytvoreni minihry na otazku jaky je rok ... */" />
+                <marker date="1595204797175" expanded="true" signature="5148:5557" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="5268:5303" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="5308:5343" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="5367:5444" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="5449:5527" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="5559:5625" ph="/* Funkce pro vytvoreni minihry na otazku jaky je mesic ... */" />
+                <marker date="1595204797175" expanded="true" signature="5654:5970" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="5767:5846" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="5851:5931" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="5972:6016" ph="/* Pro zjisteni ceskeho nazvu mesice ... */" />
+                <marker date="1595204797175" expanded="true" signature="6061:6745" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="6101:6729" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="6746:6800" ph="/* Funkce pro vytvoreni spatne odpovedi mesice ... */" />
+                <marker date="1595204797175" expanded="true" signature="6843:7773" ph="{...}" />
+                <marker date="1595204797175" expanded="true" signature="6946:7726" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Equation.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="34" selection-start-line="34" selection-end-line="36" selection-end-column="2" />
+              <folding>
+                <marker date="1595205006823" expanded="false" signature="6:190" ph="..." />
+                <marker date="1595205006823" expanded="true" signature="191:264" ph="/* Trida dedi od ACogGame a zajistuje kognitivni minihru rovnice ... */" />
+                <marker date="1595205006823" expanded="true" signature="297:4531" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="309:347" ph="/* Vytvori otazku minihry. ... */" />
+                <marker date="1595205006823" expanded="true" signature="388:641" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="462:512" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="644:696" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205006823" expanded="true" signature="740:804" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="805:857" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205006823" expanded="true" signature="901:965" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="966:1018" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205006823" expanded="true" signature="1062:1126" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="1127:1179" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205006823" expanded="true" signature="1223:1287" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="1288:1340" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205006823" expanded="true" signature="1383:1450" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="1451:1503" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205006823" expanded="true" signature="1546:1740" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="1619:1692" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="1741:1793" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205006823" expanded="true" signature="1838:2043" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="1920:1995" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="2057:2107" ph="/* Vytvori rovnicicse scitanim a odcitanim ... */" />
+                <marker date="1595205006823" expanded="true" signature="2168:2558" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="2355:2420" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="2433:2498" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="2559:2595" ph="/* Vytvori rovnici nasobenim ... */" />
+                <marker date="1595205006823" expanded="true" signature="2651:2892" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="2893:2932" ph="/* Vytvori odpoved pro talcitka ... */" />
+                <marker date="1595205006823" expanded="true" signature="3011:4507" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="3107:3782" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="3202:3477" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="3320:3396" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="3494:3771" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="3613:3689" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="3795:4476" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="3896:4171" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="4014:4090" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="4188:4465" ph="{...}" />
+                <marker date="1595205006823" expanded="true" signature="4307:4383" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Even1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="3" />
+              <folding>
+                <marker date="1595205137509" expanded="false" signature="6:122" ph="..." />
+                <marker date="1595205137509" expanded="true" signature="123:196" ph="/* Trida dedi od ACogGame a zajistuje kognitivni minihru sudosti ... */" />
+                <marker date="1595205137509" expanded="true" signature="226:2132" ph="{...}" />
+                <marker date="1595205137509" expanded="true" signature="271:582" ph="{...}" />
+                <marker date="1595205137509" expanded="true" signature="345:395" ph="{...}" />
+                <marker date="1595205137509" expanded="true" signature="588:646" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205137509" expanded="true" signature="690:747" ph="{...}" />
+                <marker date="1595205137509" expanded="true" signature="752:810" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205137509" expanded="true" signature="854:911" ph="{...}" />
+                <marker date="1595205137509" expanded="true" signature="916:974" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205137509" expanded="true" signature="1020:1077" ph="{...}" />
+                <marker date="1595205137509" expanded="true" signature="1082:1140" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205137509" expanded="true" signature="1184:1239" ph="{...}" />
+                <marker date="1595205137509" expanded="true" signature="1244:1302" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205137509" expanded="true" signature="1347:1403" ph="{...}" />
+                <marker date="1595205137509" expanded="true" signature="1408:1466" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205137509" expanded="true" signature="1511:1568" ph="{...}" />
+                <marker date="1595205137509" expanded="true" signature="1573:1631" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205137509" expanded="true" signature="1676:1735" ph="{...}" />
+                <marker date="1595205137509" expanded="true" signature="1740:1795" ph="/* Funkce pro vytvoreni minihry sudeho cisla ... */" />
+                <marker date="1595205137509" expanded="true" signature="1853:2130" ph="{...}" />
+                <marker date="1595205137509" expanded="true" signature="2046:2096" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Sequence.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2595">
+              <caret line="191" column="45" selection-start-line="191" selection-start-column="45" selection-end-line="191" selection-end-column="45" />
+              <folding>
+                <marker date="1595205663005" expanded="false" signature="6:171" ph="..." />
+                <marker date="1595205663005" expanded="true" signature="172:247" ph="/* Trida dedi od ACogGame a zajistuje kognitivni minihru posloupnosti. ... */" />
+                <marker date="1595205663005" expanded="true" signature="280:4207" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="291:374" ph="/* Abstraktni Funkce ktera vytvari ukolovou otazku a odpovedi na tlacitkach ... */" />
+                <marker date="1595205663005" expanded="true" signature="415:734" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="489:539" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="740:792" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205663005" expanded="true" signature="835:899" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="900:952" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205663005" expanded="true" signature="996:1060" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="1061:1113" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205663005" expanded="true" signature="1157:1213" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="1214:1266" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205663005" expanded="true" signature="1310:1366" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="1367:1419" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205663005" expanded="true" signature="1462:1519" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="1520:1572" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205663005" expanded="true" signature="1615:1673" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="1674:1726" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+                <marker date="1595205663005" expanded="true" signature="1771:1829" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="1830:1865" ph="/* Funkce vytvari posloupnost ... */" />
+                <marker date="1595205663005" expanded="true" signature="1931:2684" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="2051:2118" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="2185:2367" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="2380:2429" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="2498:2655" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="2686:2731" ph="/* Vytvari posloupnost s chybou ... */" />
+                <marker date="1595205663005" expanded="true" signature="2770:3590" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="3010:3060" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="3111:3321" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="3248:3311" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="3374:3562" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="3593:3677" ph="/* Funkce kontroluje, zdali vygenerovane cislo jiz v posloupnosti neni ... */" />
+                <marker date="1595205663005" expanded="true" signature="3736:3911" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="3798:3882" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="3921:3978" ph="/* Zjistuje, zdalji je posloupnost spante ... */" />
+                <marker date="1595205663005" expanded="true" signature="4017:4205" ph="{...}" />
+                <marker date="1595205663005" expanded="true" signature="4081:4167" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/CognitiveGameManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2070">
+              <caret line="153" column="62" selection-start-line="153" selection-start-column="62" selection-end-line="153" selection-end-column="62" />
+              <folding>
+                <marker date="1595205913457" expanded="false" signature="6:172" ph="..." />
+                <marker date="1595205913457" expanded="true" signature="174:296" ph="/* Trida vybira mezi Kognitivnimi minhrami a zajistuje predani veskerych potrebnych referenci prislousnym minihra ... */" />
+                <marker date="1595205913457" expanded="true" signature="346:3866" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="1277:1382" ph="/* Event funkce spustena pred vytvorenim instance. Funkce naplni pole miniher a nejakou vybere ... */" />
+                <marker date="1595205913457" expanded="true" signature="1399:1674" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="1764:1802" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="1839:1883" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="1924:1968" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="1971:2034" ph="/* Vybira minihru na zaklade urovne obtiznosti ... */" />
+                <marker date="1595205913457" expanded="true" signature="2064:2321" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="2327:2417" ph="/* Vytvori pole plne jen miniher, ktere jsou definovane na dale obtiznosti ... */" />
+                <marker date="1595205913457" expanded="true" signature="2460:2923" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="2558:2643" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="2739:2891" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="2793:2881" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="2925:3010" ph="/* Funkce spustena tlacitkem. Zajistuje se kontrola spravnosti odovdedi ... */" />
+                <marker date="1595205913457" expanded="true" signature="3038:3216" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="3068:3146" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="3159:3210" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="3218:3300" ph="/* Funkce spustena tlacitkem. Zajistuje se kontrola spravnosti odovdedi ... */" />
+                <marker date="1595205913457" expanded="true" signature="3329:3508" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="3360:3438" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="3451:3502" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="3513:3595" ph="/* Funkce pro spracnou odpovde, ktera zajisti dalsi funkce ... */" />
+                <marker date="1595205913457" expanded="true" signature="3627:3864" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="3695:3769" ph="{...}" />
+                <marker date="1595205913457" expanded="true" signature="3782:3849" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Prefab/ConnestionStatus/Script/ConnectionStatus.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <folding>
+                <marker date="1595254936960" expanded="false" signature="6:113" ph="..." />
+                <marker date="1595254936960" expanded="true" signature="114:212" ph="/* Trida slouzi pro vypsani stavu pripojen MindwaveNeurosky do prislusneho textoveho pole ... */" />
+                <marker date="1595254936960" expanded="true" signature="258:840" ph="{...}" />
+                <marker date="1595254936960" expanded="true" signature="338:430" ph="{...}" />
+                <marker date="1595254936960" expanded="true" signature="455:506" ph="{...}" />
+                <marker date="1595254936960" expanded="true" signature="532:584" ph="{...}" />
+                <marker date="1595254936960" expanded="true" signature="612:663" ph="{...}" />
+                <marker date="1595254936960" expanded="true" signature="698:752" ph="{...}" />
+                <marker date="1595254936960" expanded="true" signature="788:838" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Prefab/UIValueChanger/Script/UIValueChanger.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <marker date="1595254938593" expanded="true" signature="6:152" ph="..." />
+                <marker date="1595254938593" expanded="true" signature="155:268" ph="/* Trida slouzi pro proojeni nastaveni a Setting Manageru. Trida ma nastarosti obousmernou spravnost dat. ... */" />
+                <marker date="1595254938593" expanded="true" signature="312:6401" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="1552:3395" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="1602:1873" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="3262:3389" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="3429:3770" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="3811:3987" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="4022:4380" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="4047:4128" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="4163:4228" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="4241:4305" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="4407:4459" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="4484:4536" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="4561:4613" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="4650:4816" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="4855:5050" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="5097:5579" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="5122:5203" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="5237:5364" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="5377:5502" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="5625:5806" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="5843:6009" ph="{...}" />
+                <marker date="1595254938593" expanded="true" signature="6047:6389" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Prefab/BonusManager/Script/BonusManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4875">
+              <caret line="347" column="127" selection-start-line="347" selection-start-column="127" selection-end-line="347" selection-end-column="127" />
+              <folding>
+                <marker date="1595201472427" expanded="false" signature="6:71" ph="..." />
+                <marker date="1595201472427" expanded="true" signature="72:200" ph="/* Trida obstarava Bonusy. Stara se o jijich vytvoreni, hlida jejich dobu trvani a pote se postara i o jejich dea ... */" />
+                <marker date="1595201472427" expanded="true" signature="243:8445" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="722:812" ph="/* Funkce slouzi pro zjisteni, zdali existuje dalsi kulicka ve hre. ... */" />
+                <marker date="1595201472427" expanded="true" signature="849:1202" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="1207:1333" ph="/* Event funkce ktera je spustena pri vytvareni instance. Zde si pouze uklada rychlost kulicky. ... */" />
+                <marker date="1595201472427" expanded="true" signature="1359:1439" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="1445:1506" ph="/* Funkce pro zastaveni bonusu ... */" />
+                <marker date="1595201472427" expanded="true" signature="1534:1565" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="1593:1669" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="1700:1770" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="1798:1868" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="1896:1972" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="1978:2116" ph="/* Slouzi pro nastaveni bonusu. Ulozi si aktualni cas a podle typu bonusu zavola prislsnou funkci pro jeho aktiva ... */" />
+                <marker date="1595201472427" expanded="true" signature="2161:2665" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="2381:2659" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="2670:2773" ph="/* Funkce urcuje, zdali je prave aktivovany bonus a nove zachyceny bonus stejny. ... */" />
+                <marker date="1595201472427" expanded="true" signature="2821:2945" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="2951:3028" ph="/* Funkce slouzi pro ulozeni skriptu platformControler ... */" />
+                <marker date="1595201472427" expanded="true" signature="3052:3121" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="3127:3199" ph="/* Zajisti spusteni bonusu pro strelbu projektylu ... */" />
+                <marker date="1595201472427" expanded="true" signature="3223:3300" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="3306:3402" ph="/* Zajisti vytvoreni dalsich dvou kulicek a nstavi jim pocatecni hodnoty. ... */" />
+                <marker date="1595201472427" expanded="true" signature="3426:4153" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="4159:4232" ph="/* Zajisti spusteni bonusu, ktery zvetsi platformu ... */" />
+                <marker date="1595201472427" expanded="true" signature="4262:4343" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="4349:4472" ph="/* Funkce zajisit spusteni spravne funkce, ktera deaktivuje bonus, podle aktulane spusteneho bonuusu ... */" />
+                <marker date="1595201472427" expanded="true" signature="4499:4840" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="4535:4834" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="4875:4951" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="4957:5023" ph="/* Preda inforamci o zniceni cihlicky GameManageru ... */" />
+                <marker date="1595201472427" expanded="true" signature="5070:5157" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="5163:5302" ph="/* Funkce slouzi pro daktivaci bonusu se tremi kulickami. Funkce musi urcit, kterou kulicku ponechat a ktere znic ... */" />
+                <marker date="1595201472427" expanded="true" signature="5333:7092" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="5774:6378" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="5840:5930" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="5987:6077" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="6126:6228" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="6245:6347" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="6431:6755" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="6622:6723" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="6808:7051" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="6918:7019" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="7095:7175" ph="/* Funkce slouzi k rozhodnuti, ktera kulicka je vyse v hernim poli ... */" />
+                <marker date="1595201472427" expanded="true" signature="7237:7365" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="7372:7453" ph="/* Funkce zjistii nejvyse umistenou kulicku v hernim poli ... */" />
+                <marker date="1595201472427" expanded="true" signature="7491:7966" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="7573:7686" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="7765:7878" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="7993:8082" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="8085:8230" ph="/* Event funkce spoustena v kazdem framu. Hlida jestli bonus jiz nevyprsel a popripade zajisti zavolani funkci pr ... */" />
+                <marker date="1595201472427" expanded="true" signature="8248:8443" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="8275:8437" ph="{...}" />
+                <marker date="1595201472427" expanded="true" signature="8339:8427" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>startTime =</find>
+      <find>startTime</find>
+      <find>winn</find>
+      <find>death</find>
+      <find>bas</find>
+      <find>getCole</find>
+      <find>getColectTime</find>
+      <find>Colec</find>
+      <find>Arr</find>
+      <find>diff</find>
+      <find>positionY</find>
+      <find>Min</find>
+      <find>data</find>
+      <find>impo</find>
+      <find>exce</find>
+      <find>disa</find>
+      <find>awa</find>
+      <find>deltaTime</find>
+      <find>conne</find>
+      <find>Time.deltaTime</find>
+      <find>Time.timeScale = 0;</find>
+      <find>pause</find>
+      <find>start</find>
+      <find>count</find>
+      <find>fix</find>
+      <find>Log</find>
+      <find>countDo</find>
+      <find>print</find>
+      <find>update</find>
+      <find>prin</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/CognitiveGameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D0107EDE-DA46-4B62-A3A4-8CFB7B3E0850/ed/212a9d0d/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/ACogGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Calc1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/ConnestionStatus/Script/ConnectionStatus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1D5F7755-FB2F-48BB-ABA0-E09965079231/9a/e844b8af/JsonConvert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/GameManager/Scripts/gameManager1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29D15D32-74A8-45E0-BDA1-665455A698E2/29/df1699d1/ScriptingRuntimeVersion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/BonusManager/Script/BonusManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Bonus/Scripts/EnumBonusType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Bonus/Scripts/Bonus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Brick/Scripts/brickBonus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Brick/Scripts/brickGray.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Bullet/Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Ball/Script/BallControler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/BarsAttentinMeditation/Script/ChangeBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/UIValueChanger/Script/UIValueChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/EyeButton (1).cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Butoton/Scritp/EyeButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Calc.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/ColorTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Equation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Even1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Sequence.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/DayMonthYear.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/arkanoidLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/TetrisLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/Strawberry.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/FlowerLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/CzechFlag.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/OriginalArkanoid1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/OriginalArkanoid3.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/OriginalArkanoid4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/PackmanLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/EasyLevel1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/EasyLevel2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/EasyLevel3.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/EasyLevel4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/EasyLevel5.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/Easylevel6.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Platform/Scripts/PlatfomrControler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/LiveManager/Script/LiveManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/ICogGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Even.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Color.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Fractions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Level/Script/OriginalArkanoid2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/SceneSwitcher/Script/SceneSwitcher.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1D5F7755-FB2F-48BB-ABA0-E09965079231/9a/e844b8af/JsonConvert.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/UIValueChanger/Script/UIValueChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/ConnestionStatus/ConnectionStatus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/SettingManager/Script/SettingManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/MindwaveUnity/Core/MindwaveController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/GameManager/Scripts/gameManager1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/InputManager/Scripts/InputManager1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Test/EditMode/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Test/PlayMode/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Ball/Script/BallControler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/BarsAttentinMeditation/Script/ChangeBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Bonus/Scripts/Bonus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Bonus/Scripts/EnumBonusType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/BonusManager/Script/BonusManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Brick/Scripts/brickBonus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Brick/Scripts/brickGray.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Bullet/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Butoton/Scritp/EyeButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/ACogGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Calc.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Calc1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/ColorTask.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/DayMonthYear.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Equation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Even1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Sequence.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/CognitiveGameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/ConnestionStatus/Script/ConnectionStatus.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2057" />
+    <option name="y" value="1" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Arkanoid" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="6628">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="6628" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55e7d05b-0fad-4a52-ad90-ee0d6adcd8bd" name="Default Changelist" comment="" />
+      <created>1563226059598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563226059598</updated>
+      <workItem from="1563226064868" duration="1969000" />
+      <workItem from="1563283460017" duration="2432000" />
+      <workItem from="1563388819416" duration="10962000" />
+      <workItem from="1563457122960" duration="13028000" />
+      <workItem from="1565211725881" duration="3955000" />
+      <workItem from="1565540123934" duration="5726000" />
+      <workItem from="1568463068438" duration="9283000" />
+      <workItem from="1568809465071" duration="2317000" />
+      <workItem from="1569183544011" duration="1713000" />
+      <workItem from="1569248669295" duration="9242000" />
+      <workItem from="1569340178364" duration="251000" />
+      <workItem from="1569341002721" duration="6441000" />
+      <workItem from="1569522949695" duration="5886000" />
+      <workItem from="1569604871960" duration="3908000" />
+      <workItem from="1569710677772" duration="2907000" />
+      <workItem from="1569759549992" duration="3753000" />
+      <workItem from="1569968486707" duration="1277000" />
+      <workItem from="1570043801509" duration="4163000" />
+      <workItem from="1570136108493" duration="1561000" />
+      <workItem from="1570138073737" duration="1343000" />
+      <workItem from="1570564291902" duration="2655000" />
+      <workItem from="1583091907060" duration="11334000" />
+      <workItem from="1583516800025" duration="599000" />
+      <workItem from="1584536509891" duration="8839000" />
+      <workItem from="1585334713461" duration="2407000" />
+      <workItem from="1585769929041" duration="9676000" />
+      <workItem from="1585821094374" duration="156000" />
+      <workItem from="1585851502800" duration="9125000" />
+      <workItem from="1586017170747" duration="2817000" />
+      <workItem from="1587150300920" duration="4828000" />
+      <workItem from="1587158983352" duration="9438000" />
+      <workItem from="1587236227536" duration="4185000" />
+      <workItem from="1587393757211" duration="14406000" />
+      <workItem from="1587485965819" duration="9039000" />
+      <workItem from="1587997062289" duration="6621000" />
+      <workItem from="1588106209956" duration="6449000" />
+      <workItem from="1588258908077" duration="8496000" />
+      <workItem from="1588348092257" duration="25960000" />
+      <workItem from="1588378053647" duration="1733000" />
+      <workItem from="1588427796749" duration="652000" />
+      <workItem from="1588431148920" duration="3672000" />
+      <workItem from="1588451667028" duration="8467000" />
+      <workItem from="1588526353348" duration="7178000" />
+      <workItem from="1588633254738" duration="3667000" />
+      <workItem from="1588675603973" duration="1326000" />
+      <workItem from="1593209402913" duration="3763000" />
+      <workItem from="1593635639959" duration="2154000" />
+      <workItem from="1594296647010" duration="3945000" />
+      <workItem from="1594391894507" duration="1381000" />
+      <workItem from="1594830516791" duration="4940000" />
+      <workItem from="1594835854951" duration="17726000" />
+      <workItem from="1594913733737" duration="1561000" />
+      <workItem from="1594918345699" duration="2626000" />
+      <workItem from="1595099730050" duration="7005000" />
+      <workItem from="1595112020064" duration="1365000" />
+      <workItem from="1595182423037" duration="2981000" />
+      <workItem from="1595191168770" duration="75000" />
+      <workItem from="1595200059146" duration="6498000" />
+      <workItem from="1595254996177" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="311907000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="1" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20042644" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.21451788" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.19616205" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.015991472" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" weight="0.3289225" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Fractions.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/Level/Script/OriginalArkanoid2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <marker date="1588378549361" expanded="false" signature="6:78" ph="..." />
+            <marker date="1588378549361" expanded="true" signature="134:951" ph="{...}" />
+            <marker date="1588378549361" expanded="true" signature="232:844" ph="{...}" />
+            <marker date="1588378549361" expanded="true" signature="300:777" ph="{...}" />
+            <marker date="1588378549361" expanded="true" signature="351:767" ph="{...}" />
+            <marker date="1588378549361" expanded="true" signature="890:949" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/EyeButton (1).cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/SceneSwitcher/Script/SceneSwitcher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="188" column="27" selection-start-line="188" selection-start-column="27" selection-end-line="188" selection-end-column="27" />
+          <folding>
+            <marker date="1588676330902" expanded="false" signature="6:127" ph="..." />
+            <marker date="1588676330902" expanded="true" signature="171:3928" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="206:294" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="325:405" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="435:491" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="522:579" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="612:671" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="702:759" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="793:849" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="878:972" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="1001:1095" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="1123:1217" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="1245:1339" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="1367:1461" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="1489:1583" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="1611:1705" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="1733:1827" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="1859:1953" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="1986:2080" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="2113:2208" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="2241:2336" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="2369:2464" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="2497:2592" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="2625:2720" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="2753:2848" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="2881:2976" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="3009:3104" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="3134:3191" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="3228:3292" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="3332:3395" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="3424:3487" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="3532:3599" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="3649:3720" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="3768:3838" ph="{...}" />
+            <marker date="1588676330902" expanded="true" signature="3870:3910" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/GameManager/Scripts/EnumBrickType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <marker date="1569761339301" expanded="false" signature="6:78" ph="..." />
+            <marker date="1569761339301" expanded="true" signature="106:183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29D15D32-74A8-45E0-BDA1-665455A698E2/29/df1699d1/ScriptingRuntimeVersion.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1D5F7755-FB2F-48BB-ABA0-E09965079231/9a/e844b8af/JsonConvert.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+          <folding>
+            <element signature="e#293#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/ConnestionStatus/ConnectionStatus.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/ConnestionStatus/ConectionStatus.prefab">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D0107EDE-DA46-4B62-A3A4-8CFB7B3E0850/ed/212a9d0d/MonoBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-572">
+          <caret line="150" column="16" selection-start-line="150" selection-start-column="16" selection-end-line="150" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/MindwaveUnity/Core/BrainwaveEnum.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1586693972000" expanded="true" signature="21:107" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/MindwaveUnity/Core/MindwaveManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <marker date="1586693972000" expanded="false" signature="0:48" ph="Headers" />
+            <marker date="1586693972000" expanded="true" signature="51:566" ph="///  ... " />
+            <marker date="1586693972000" expanded="true" signature="795:1412" ph="{...}" />
+            <marker date="1586693972000" expanded="false" signature="800:949" ph="Attributes" />
+            <marker date="1586693972000" expanded="false" signature="954:1214" ph="Protected Methods" />
+            <marker date="1586693972000" expanded="true" signature="1023:1201" ph="{...}" />
+            <marker date="1586693972000" expanded="false" signature="1219:1409" ph="Accessors" />
+            <marker date="1586693972000" expanded="true" signature="1276:1316" ph="{...}" />
+            <marker date="1586693972000" expanded="true" signature="1356:1396" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/MindwaveUnity/Core/MindwaveHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding>
+            <marker date="1586693972000" expanded="true" signature="0:110" ph="/// ... " />
+            <marker date="1586693972000" expanded="true" signature="145:943" ph="{...}" />
+            <marker date="1586693972000" expanded="false" signature="150:498" ph="Attributes" />
+            <marker date="1586693972000" expanded="true" signature="172:251" ph="/* Constants &amp; Statics ... */" />
+            <marker date="1586693972000" expanded="false" signature="502:940" ph="Public Methods" />
+            <marker date="1586693972000" expanded="true" signature="528:633" ph="/// Calculates a ratio of a given sense value (meditation or attention). ... " />
+            <marker date="1586693972000" expanded="true" signature="686:731" ph="{...}" />
+            <marker date="1586693972000" expanded="true" signature="737:829" ph="/// Calculates the ratio of the given blink strength value. ... " />
+            <marker date="1586693972000" expanded="true" signature="882:927" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/MindwaveUnity/Core/MindwaveController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="211" column="76" selection-start-line="211" selection-start-column="76" selection-end-line="211" selection-end-column="76" />
+          <folding>
+            <marker date="1594852959675" expanded="false" signature="0:333" ph="Headers" />
+            <marker date="1594852959675" expanded="false" signature="24:321" ph="..." />
+            <marker date="1594852959675" expanded="true" signature="335:776" ph="///  ... " />
+            <marker date="1594852959675" expanded="true" signature="888:9528" ph="{...}" />
+            <marker date="1594852959675" expanded="false" signature="893:3442" ph="Attributes" />
+            <marker date="1594852959675" expanded="false" signature="3447:3724" ph="Engine Methods" />
+            <marker date="1594852959675" expanded="true" signature="3496:3566" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="3527:3562" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="3594:3631" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="3656:3711" ph="{...}" />
+            <marker date="1594852959675" expanded="false" signature="3729:3886" ph="Public Methods" />
+            <marker date="1594852959675" expanded="true" signature="3776:3808" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="3836:3873" ph="{...}" />
+            <marker date="1594852959675" expanded="false" signature="3890:3927" ph="Protected Methods" />
+            <marker date="1594852959675" expanded="true" signature="3932:8197" ph="Private Methods" />
+            <marker date="1594852959675" expanded="true" signature="3959:4054" ph="/// Try to connect to the Mindwave, and start the data stream. ... " />
+            <marker date="1594852959675" expanded="true" signature="4089:4361" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="4124:4357" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="4365:4437" ph="/// Initializes the data stream buffer. ... " />
+            <marker date="1594852959675" expanded="true" signature="4465:4674" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="4678:4767" ph="/// Stop the stream coroutine and close the data stream. ... " />
+            <marker date="1594852959675" expanded="true" signature="4807:5042" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="4842:4916" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="5002:5038" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="5046:5265" ph="/// Read datas from Mindwave, and parse them. ... " />
+            <marker date="1594852959675" expanded="true" signature="5316:7717" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="5348:7515" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="5538:5620" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="5659:7510" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="5703:5733" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="5743:7000" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="6020:6521" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="6225:6274" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="6329:6513" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="6446:6504" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="6618:6754" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="6661:6746" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="6852:6993" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="6894:6985" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="7040:7186" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="7076:7179" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="7229:7376" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="7266:7369" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="7417:7504" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="7564:7601" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="7721:7896" ph="/// If there's a pending connection, update the connection timeout timer. ... " />
+            <marker date="1594852959675" expanded="true" signature="7948:8184" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="7979:8180" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="8064:8175" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="8107:8150" ph="{...}" />
+            <marker date="1594852959675" expanded="false" signature="8202:9525" ph="Accessors" />
+            <marker date="1594852959675" expanded="true" signature="8223:8445" ph="/// When setting ConnectedFlag, check if the Mindwave is already in the target state. ... " />
+            <marker date="1594852959675" expanded="true" signature="8474:8840" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="8520:8836" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="8558:8831" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="8619:8714" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="8663:8707" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="8724:8825" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="8771:8818" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="8844:8958" ph="/// If a new pending connection is triggered, reset the connection timeout timer. ... " />
+            <marker date="1594852959675" expanded="true" signature="8991:9210" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="9041:9206" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="9083:9201" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="9152:9195" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="9238:9285" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="9312:9355" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="9384:9426" ph="{...}" />
+            <marker date="1594852959675" expanded="true" signature="9465:9512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tobii/Framework/Editor/EyeTrackingClientLibraryDeployer.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Tobii/Framework/Internal/WindowHelpers.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/MindwaveUnity/Core/MindwaveCalibrator.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/SettingManager/Script/SettingManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-512">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/Platform/Scripts/PlatfomrControler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="112" column="74" selection-start-line="112" selection-start-column="74" selection-end-line="112" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArkaEYE/Prefab/CognitiveGame/Scripts/CognitiveGameManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ArkaEYE/Prefab/ConnestionStatus/Script/ConnectionStatus.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ArkaEYE/Prefab/CognitiveGame/Scripts/ACogGame.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ArkaEYE/Prefab/GameManager/Scripts/gameManager1.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ArkaEYE/Prefab/UIValueChanger/Script/UIValueChanger.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/InputManager/Scripts/InputManager1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="93" column="7" selection-start-line="93" selection-start-column="7" selection-end-line="93" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BallControler.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Test/EditMode/Test.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/PlatfomrControler.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/gameManager1.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Test/PlayMode/Test.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/GameManager/Scripts/gameManager1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1595109955666" expanded="false" signature="6:75" ph="..." />
+            <marker date="1595109955666" expanded="true" signature="119:24251" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="4048:4076" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="4107:4366" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="4392:4767" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="4474:4618" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="4818:5052" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="4906:5046" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="5071:5929" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="5106:5146" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="5170:5426" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="5328:5416" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="5471:5537" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="5750:5852" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="5878:5923" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="5968:6672" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="6720:6888" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="6917:7011" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="6963:7005" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="7038:7267" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="7307:9021" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="7458:7517" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="7952:8038" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="8298:8808" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="8821:8894" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="9048:9530" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="9226:9524" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="9360:9418" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="9435:9514" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="9561:9850" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="9714:9815" ph="/* tempTime = System.DateTime.Now.Second + System.DateTime.Now.Minute * 60; ... */" />
+            <marker date="1595109955666" expanded="true" signature="9879:10111" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="10135:10204" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="10238:10702" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="10733:11088" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="10784:10937" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="10950:11082" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="11120:12130" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="12155:12419" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="12455:12833" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="12504:12581" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="12865:13413" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="13453:13677" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="13707:13983" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="13745:13907" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="14022:14187" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="14214:14389" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="14428:14751" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="14493:14722" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="14544:14712" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="14781:14963" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="14824:14957" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="14875:14947" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="14991:15130" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="15168:15596" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="15230:15568" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="15634:16039" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="15775:16033" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="15826:16023" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="16083:16468" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="16121:16196" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="16209:16462" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="16254:16341" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="16358:16452" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="16513:16764" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="16807:17030" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="16900:17024" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="16951:17014" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="17067:17202" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="17148:17196" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="17235:18116" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="17430:17733" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="17481:17723" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="17560:17709" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="17761:18110" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="17856:18060" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="18153:18440" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="18228:18411" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="18279:18401" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="18494:20780" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="18759:19755" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="19813:20453" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="20010:20443" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="20124:20233" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="20510:20774" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="20817:21037" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="20842:21012" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="21075:21137" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="21183:21875" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="21271:21424" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="21449:21687" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="21919:23041" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="22170:22288" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="22313:22427" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="22473:22592" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="22616:22804" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="22826:23013" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="23091:23230" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="23275:23368" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="23398:24249" ph="{...}" />
+            <marker date="1595109955666" expanded="true" signature="23918:24243" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/Ball/Script/BallControler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="116" column="66" selection-start-line="116" selection-start-column="66" selection-end-line="116" selection-end-column="66" />
+          <folding>
+            <marker date="1595200347955" expanded="false" signature="6:92" ph="..." />
+            <marker date="1595200347955" expanded="true" signature="95:220" ph="/* ... */" />
+            <marker date="1595200347955" expanded="true" signature="263:2636" ph="{...}" />
+            <marker date="1595200347955" expanded="true" signature="420:478" ph="{...}" />
+            <marker date="1595200347955" expanded="true" signature="502:566" ph="{...}" />
+            <marker date="1595200347955" expanded="true" signature="617:751" ph="/* ... */" />
+            <marker date="1595200347955" expanded="true" signature="768:891" ph="{...}" />
+            <marker date="1595200347955" expanded="true" signature="901:969" ph="/* ... */" />
+            <marker date="1595200347955" expanded="true" signature="1001:1080" ph="{...}" />
+            <marker date="1595200347955" expanded="true" signature="1086:1232" ph="/* ... */" />
+            <marker date="1595200347955" expanded="true" signature="1277:1813" ph="{...}" />
+            <marker date="1595200347955" expanded="true" signature="1367:1644" ph="{...}" />
+            <marker date="1595200347955" expanded="true" signature="1696:1807" ph="{...}" />
+            <marker date="1595200347955" expanded="true" signature="1823:1902" ph="/* ... */" />
+            <marker date="1595200347955" expanded="true" signature="1986:2173" ph="{...}" />
+            <marker date="1595200347955" expanded="true" signature="2001:2111" ph="/* 1  -0.5  0  0.5   1  &lt;- x value ... */" />
+            <marker date="1595200347955" expanded="true" signature="2183:2261" ph="/* ... */" />
+            <marker date="1595200347955" expanded="true" signature="2295:2479" ph="{...}" />
+            <marker date="1595200347955" expanded="true" signature="2401:2473" ph="{...}" />
+            <marker date="1595200347955" expanded="true" signature="2484:2570" ph="/* ... */" />
+            <marker date="1595200347955" expanded="true" signature="2597:2634" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/BarsAttentinMeditation/Script/ChangeBar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="82" column="69" selection-start-line="82" selection-start-column="69" selection-end-line="82" selection-end-column="69" />
+          <folding>
+            <marker date="1595200521718" expanded="false" signature="6:243" ph="..." />
+            <marker date="1595200521718" expanded="true" signature="246:339" ph="/* ... */" />
+            <marker date="1595200521718" expanded="true" signature="378:2262" ph="{...}" />
+            <marker date="1595200521718" expanded="true" signature="786:927" ph="/* ... */" />
+            <marker date="1595200521718" expanded="true" signature="944:1364" ph="{...}" />
+            <marker date="1595200521718" expanded="true" signature="1261:1305" ph="{...}" />
+            <marker date="1595200521718" expanded="true" signature="1318:1358" ph="{...}" />
+            <marker date="1595200521718" expanded="true" signature="1369:1497" ph="/* ... */" />
+            <marker date="1595200521718" expanded="true" signature="1515:1706" ph="{...}" />
+            <marker date="1595200521718" expanded="true" signature="1603:1647" ph="{...}" />
+            <marker date="1595200521718" expanded="true" signature="1660:1700" ph="{...}" />
+            <marker date="1595200521718" expanded="true" signature="1712:1761" ph="/* ... */" />
+            <marker date="1595200521718" expanded="true" signature="1788:2081" ph="{...}" />
+            <marker date="1595200521718" expanded="true" signature="2083:2164" ph="/* ... */" />
+            <marker date="1595200521718" expanded="true" signature="2187:2260" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/Bonus/Scripts/Bonus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="95" column="99" selection-start-line="95" selection-start-column="99" selection-end-line="95" selection-end-column="99" />
+          <folding>
+            <marker date="1595200819824" expanded="true" signature="20:87" ph="/* ... */" />
+            <marker date="1595200819824" expanded="true" signature="123:2329" ph="{...}" />
+            <marker date="1595200819824" expanded="true" signature="364:490" ph="/* ... */" />
+            <marker date="1595200819824" expanded="true" signature="507:586" ph="{...}" />
+            <marker date="1595200819824" expanded="true" signature="596:656" ph="/* ... */" />
+            <marker date="1595200819824" expanded="true" signature="683:753" ph="{...}" />
+            <marker date="1595200819824" expanded="true" signature="769:828" ph="/* Nastavuje vzhled bonusu na cerveny ... */" />
+            <marker date="1595200819824" expanded="true" signature="855:926" ph="{...}" />
+            <marker date="1595200819824" expanded="true" signature="937:996" ph="/* Nastavuje vzhled bonusu na cerveny ... */" />
+            <marker date="1595200819824" expanded="true" signature="1024:1096" ph="{...}" />
+            <marker date="1595200819824" expanded="true" signature="1102:1178" ph="/* ... */" />
+            <marker date="1595200819824" expanded="true" signature="1226:1567" ph="{...}" />
+            <marker date="1595200819824" expanded="true" signature="1280:1561" ph="{...}" />
+            <marker date="1595200819824" expanded="true" signature="1602:1678" ph="{...}" />
+            <marker date="1595200819824" expanded="true" signature="1684:1785" ph="/* ... */" />
+            <marker date="1595200819824" expanded="true" signature="1816:1925" ph="{...}" />
+            <marker date="1595200819824" expanded="true" signature="1936:2054" ph="/* ... */" />
+            <marker date="1595200819824" expanded="true" signature="2102:2327" ph="{...}" />
+            <marker date="1595200819824" expanded="true" signature="2160:2321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/Bonus/Scripts/EnumBonusType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <marker date="1595200833542" expanded="false" signature="6:78" ph="..." />
+            <marker date="1595200833542" expanded="true" signature="79:110" ph="/* ... */" />
+            <marker date="1595200833542" expanded="true" signature="137:167" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/Brick/Scripts/brickBonus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="48" column="147" lean-forward="true" selection-start-line="48" selection-start-column="147" selection-end-line="48" selection-end-column="147" />
+          <folding>
+            <marker date="1595201625087" expanded="false" signature="6:145" ph="..." />
+            <marker date="1595201625087" expanded="true" signature="186:2101" ph="{...}" />
+            <marker date="1595201625087" expanded="true" signature="198:319" ph="/* ... */" />
+            <marker date="1595201625087" expanded="true" signature="525:605" ph="{...}" />
+            <marker date="1595201625087" expanded="true" signature="634:698" ph="{...}" />
+            <marker date="1595201625087" expanded="true" signature="729:765" ph="{...}" />
+            <marker date="1595201625087" expanded="true" signature="801:879" ph="{...}" />
+            <marker date="1595201625087" expanded="true" signature="889:1052" ph="/* ... */" />
+            <marker date="1595201625087" expanded="true" signature="1097:2099" ph="{...}" />
+            <marker date="1595201625087" expanded="true" signature="1205:2047" ph="{...}" />
+            <marker date="1595201625087" expanded="true" signature="1381:1814" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/Brick/Scripts/brickGray.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="36" column="136" selection-start-line="36" selection-start-column="136" selection-end-line="36" selection-end-column="136" />
+          <folding>
+            <marker date="1595201721007" expanded="false" signature="6:78" ph="..." />
+            <marker date="1595201721007" expanded="true" signature="79:170" ph="/* ... */" />
+            <marker date="1595201721007" expanded="true" signature="209:1266" ph="{...}" />
+            <marker date="1595201721007" expanded="true" signature="433:513" ph="{...}" />
+            <marker date="1595201721007" expanded="true" signature="550:628" ph="{...}" />
+            <marker date="1595201721007" expanded="true" signature="634:797" ph="/* ... */" />
+            <marker date="1595201721007" expanded="true" signature="842:1264" ph="{...}" />
+            <marker date="1595201721007" expanded="true" signature="880:1031" ph="{...}" />
+            <marker date="1595201721007" expanded="true" signature="1044:1241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/Bullet/Scripts/Bullet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+          <folding>
+            <marker date="1595201818365" expanded="true" signature="6:78" ph="..." />
+            <marker date="1595201818365" expanded="true" signature="79:154" ph="/* ... */" />
+            <marker date="1595201818365" expanded="true" signature="190:701" ph="{...}" />
+            <marker date="1595201818365" expanded="true" signature="278:373" ph="/* ... */" />
+            <marker date="1595201818365" expanded="true" signature="396:503" ph="{...}" />
+            <marker date="1595201818365" expanded="true" signature="505:581" ph="/* ... */" />
+            <marker date="1595201818365" expanded="true" signature="630:691" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/Butoton/Scritp/EyeButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="41" column="4" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <folding>
+            <marker date="1595202094684" expanded="false" signature="6:226" ph="..." />
+            <marker date="1595202094684" expanded="true" signature="228:345" ph="/* ... */" />
+            <marker date="1595202094684" expanded="true" signature="385:2291" ph="{...}" />
+            <marker date="1595202094684" expanded="true" signature="692:832" ph="/* ... */" />
+            <marker date="1595202094684" expanded="true" signature="857:963" ph="{...}" />
+            <marker date="1595202094684" expanded="true" signature="965:1118" ph="/* ... */" />
+            <marker date="1595202094684" expanded="true" signature="1136:1672" ph="{...}" />
+            <marker date="1595202094684" expanded="true" signature="1301:1499" ph="{...}" />
+            <marker date="1595202094684" expanded="true" signature="1389:1489" ph="{...}" />
+            <marker date="1595202094684" expanded="true" signature="1512:1586" ph="{...}" />
+            <marker date="1595202094684" expanded="true" signature="1674:1743" ph="/* ... */" />
+            <marker date="1595202094684" expanded="true" signature="1788:2177" ph="{...}" />
+            <marker date="1595202094684" expanded="true" signature="2179:2219" ph="/* ... */" />
+            <marker date="1595202094684" expanded="true" signature="2243:2289" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/ACogGame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="29" selection-end-column="8" />
+          <folding>
+            <marker date="1595203383827" expanded="false" signature="6:144" ph="..." />
+            <marker date="1595203383827" expanded="true" signature="145:272" ph="/* ... */" />
+            <marker date="1595203383827" expanded="true" signature="304:2992" ph="{...}" />
+            <marker date="1595203383827" expanded="true" signature="747:854" ph="/* ... */" />
+            <marker date="1595203383827" expanded="true" signature="892:956" ph="{...}" />
+            <marker date="1595203383827" expanded="true" signature="971:1049" ph="/* ... */" />
+            <marker date="1595203383827" expanded="true" signature="1092:1184" ph="/* ... */" />
+            <marker date="1595203383827" expanded="true" signature="1220:1373" ph="{...}" />
+            <marker date="1595203383827" expanded="true" signature="1375:1470" ph="/* ... */" />
+            <marker date="1595203383827" expanded="true" signature="1591:1899" ph="{...}" />
+            <marker date="1595203383827" expanded="true" signature="1911:1967" ph="/* ... */" />
+            <marker date="1595203383827" expanded="true" signature="2014:2418" ph="{...}" />
+            <marker date="1595203383827" expanded="true" signature="2076:2388" ph="{...}" />
+            <marker date="1595203383827" expanded="true" signature="2428:2503" ph="/* ... */" />
+            <marker date="1595203383827" expanded="true" signature="2839:2924" ph="/* ... */" />
+            <marker date="1595203383827" expanded="true" signature="2953:2990" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Calc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="47" selection-start-line="47" selection-end-line="50" selection-end-column="3" />
+          <folding>
+            <marker date="1595203821564" expanded="true" signature="105:232" ph="/* ... */" />
+            <marker date="1595203821564" expanded="true" signature="262:4615" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="266:324" ph="/* ... */" />
+            <marker date="1595203821564" expanded="true" signature="365:542" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="439:489" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="544:604" ph="/* ... */" />
+            <marker date="1595203821564" expanded="true" signature="648:988" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="764:953" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="994:1052" ph="/* Trida pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821564" expanded="true" signature="1095:1436" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="1211:1401" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="1441:1511" ph="/* Trida pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821564" expanded="true" signature="1554:1896" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="1670:1861" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="1901:1970" ph="/* Trida pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821564" expanded="true" signature="2015:2359" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="2131:2324" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="2364:2434" ph="/* Trida pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821564" expanded="true" signature="2478:2537" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="2542:2612" ph="/* Trida pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821564" expanded="true" signature="2657:2715" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="2721:2794" ph="/* Trida pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821564" expanded="true" signature="2840:2900" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="2901:2939" ph="/* ... */" />
+            <marker date="1595203821564" expanded="true" signature="3015:3656" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="3302:3463" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="3476:3600" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="3667:3727" ph="/* ... */" />
+            <marker date="1595203821564" expanded="true" signature="3809:4613" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="4008:4075" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="4088:4155" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="4259:4407" ph="{...}" />
+            <marker date="1595203821564" expanded="true" signature="4420:4557" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Calc1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="14" />
+          <folding>
+            <marker date="1595203821605" expanded="false" signature="6:122" ph="..." />
+            <marker date="1595203821605" expanded="true" signature="123:257" ph="/* Trida dedi od ACogGame a zajistuje pocitaci kognitivni minnihru, kde hrac musi tlacitkem urcit ANO/NE spravny  ... */" />
+            <marker date="1595203821605" expanded="true" signature="287:5349" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="294:379" ph="/* Abstraktni Funkce ktera vytvari ukolovou otazku a odpovedi na tlacitkach ... */" />
+            <marker date="1595203821605" expanded="true" signature="420:654" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="494:544" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="659:714" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821605" expanded="true" signature="763:1181" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="879:1146" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="1186:1241" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821605" expanded="true" signature="1284:1703" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="1400:1668" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="1708:1763" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821605" expanded="true" signature="1806:2226" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="1922:2191" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="2231:2286" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821605" expanded="true" signature="2331:2754" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="2447:2719" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="2759:2814" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821605" expanded="true" signature="2858:2917" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="2923:2978" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821605" expanded="true" signature="3022:3080" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="3086:3141" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821605" expanded="true" signature="3187:3247" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="3254:3292" ph="/* Vytvari minihru nasobeni ... */" />
+            <marker date="1595203821605" expanded="true" signature="3368:3910" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="3633:3701" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="3714:3849" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="3911:3947" ph="/* Vytvari minihru deleno ... */" />
+            <marker date="1595203821605" expanded="true" signature="4025:4521" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="4229:4315" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="4328:4451" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="4523:4565" ph="/* Vytvari minihru plus a minus ... */" />
+            <marker date="1595203821605" expanded="true" signature="4646:5347" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="4870:4937" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="4950:5017" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="5070:5138" ph="{...}" />
+            <marker date="1595203821605" expanded="true" signature="5151:5286" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/ColorTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3420">
+          <caret line="245" column="41" selection-start-line="245" selection-start-column="41" selection-end-line="245" selection-end-column="41" />
+          <folding>
+            <marker date="1595203821584" expanded="false" signature="6:95" ph="..." />
+            <marker date="1595203821584" expanded="true" signature="97:189" ph="/* Trida dedi od ACogGame a zajistuje vytvoreni kognitivni minhry pro barvu textu ... */" />
+            <marker date="1595203821584" expanded="true" signature="223:5402" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="233:335" ph="/* Vytvari ukolovou otazku a definjuje na jakych urovnich je minihra definovana ... */" />
+            <marker date="1595203821584" expanded="true" signature="376:638" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="450:500" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="643:701" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821584" expanded="true" signature="744:808" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="813:871" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821584" expanded="true" signature="915:979" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="984:1042" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821584" expanded="true" signature="1086:1150" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="1155:1213" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821584" expanded="true" signature="1257:1321" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="1365:1409" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="1414:1472" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821584" expanded="true" signature="1515:1559" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="1564:1622" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595203821584" expanded="true" signature="1667:1712" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="1714:1775" ph="/* Funkce vytvari narocnejsi verzi teto minihry ... */" />
+            <marker date="1595203821584" expanded="true" signature="1812:2154" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="2156:2213" ph="/* Funkce vytvari jednodusz verzi teto minihry ... */" />
+            <marker date="1595203821584" expanded="true" signature="2248:2375" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="2386:2440" ph="/* Funkce vytvari  konkretni ukol s barvami ... */" />
+            <marker date="1595203821584" expanded="true" signature="2496:4090" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="2585:2752" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="2674:2742" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="2843:3428" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="2988:3050" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="3275:3335" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="3441:4037" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="3599:3661" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="3885:3945" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="4095:4149" ph="/* Funkce pro zjisteni nazvu barvy ... */" />
+            <marker date="1595203821584" expanded="true" signature="4197:4792" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="4797:4862" ph="/* Funkce pro ziskani konretni barby ... */" />
+            <marker date="1595203821584" expanded="true" signature="4898:5400" ph="{...}" />
+            <marker date="1595203821584" expanded="true" signature="4933:5372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/DayMonthYear.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="90" />
+          <folding>
+            <marker date="1595204797175" expanded="false" signature="6:44" ph="..." />
+            <marker date="1595204797175" expanded="true" signature="45:155" ph="/* Trida dedi od ACogGame a zajistuje kognitivni minihru pro otazku na aktualni den/datum. ... */" />
+            <marker date="1595204797175" expanded="true" signature="192:7775" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="203:245" ph="/* Vytvori otazku minihry. ... */" />
+            <marker date="1595204797175" expanded="true" signature="286:449" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="360:409" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="451:503" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595204797175" expanded="true" signature="542:571" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="573:625" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595204797175" expanded="true" signature="666:858" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="746:842" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="859:911" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595204797175" expanded="true" signature="952:1192" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="1032:1177" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="1193:1245" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595204797175" expanded="true" signature="1286:1479" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="1366:1462" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="1480:1532" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595204797175" expanded="true" signature="1571:1597" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="1598:1650" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595204797175" expanded="true" signature="1689:1884" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="1769:1869" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="1885:1937" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595204797175" expanded="true" signature="1978:2003" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="2004:2061" ph="/* Funkce vytvoreni minihry na otazku aktualniho dne ... */" />
+            <marker date="1595204797175" expanded="true" signature="2091:2408" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="2212:2289" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="2294:2372" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="2410:2450" ph="/* Funkce pro vypsani dnu v cestine ... */" />
+            <marker date="1595204797175" expanded="true" signature="2493:2793" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="2511:2775" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="2795:2843" ph="/* Funkce pro vytvoreni chybne odpovedi dnu ... */" />
+            <marker date="1595204797175" expanded="true" signature="2884:3491" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="2986:3446" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="3493:3561" ph="/* Funkce pro vytvoreni minihry na otazku celeho aktualnih data ... */" />
+            <marker date="1595204797175" expanded="true" signature="3590:4393" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="3834:4201" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="4228:4293" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="4298:4363" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="4394:4459" ph="/* Funkce pro vytvoreni minihry na otazku  aktualnih data ... */" />
+            <marker date="1595204797175" expanded="true" signature="4485:5058" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="4671:4796" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="4801:4870" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="4894:4959" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="4964:5029" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="5059:5123" ph="/* Funkce pro vytvoreni minihry na otazku jaky je rok ... */" />
+            <marker date="1595204797175" expanded="true" signature="5148:5557" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="5268:5303" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="5308:5343" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="5367:5444" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="5449:5527" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="5559:5625" ph="/* Funkce pro vytvoreni minihry na otazku jaky je mesic ... */" />
+            <marker date="1595204797175" expanded="true" signature="5654:5970" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="5767:5846" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="5851:5931" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="5972:6016" ph="/* Pro zjisteni ceskeho nazvu mesice ... */" />
+            <marker date="1595204797175" expanded="true" signature="6061:6745" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="6101:6729" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="6746:6800" ph="/* Funkce pro vytvoreni spatne odpovedi mesice ... */" />
+            <marker date="1595204797175" expanded="true" signature="6843:7773" ph="{...}" />
+            <marker date="1595204797175" expanded="true" signature="6946:7726" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Equation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="34" selection-start-line="34" selection-end-line="36" selection-end-column="2" />
+          <folding>
+            <marker date="1595205006823" expanded="false" signature="6:190" ph="..." />
+            <marker date="1595205006823" expanded="true" signature="191:264" ph="/* Trida dedi od ACogGame a zajistuje kognitivni minihru rovnice ... */" />
+            <marker date="1595205006823" expanded="true" signature="297:4531" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="309:347" ph="/* Vytvori otazku minihry. ... */" />
+            <marker date="1595205006823" expanded="true" signature="388:641" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="462:512" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="644:696" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205006823" expanded="true" signature="740:804" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="805:857" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205006823" expanded="true" signature="901:965" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="966:1018" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205006823" expanded="true" signature="1062:1126" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="1127:1179" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205006823" expanded="true" signature="1223:1287" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="1288:1340" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205006823" expanded="true" signature="1383:1450" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="1451:1503" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205006823" expanded="true" signature="1546:1740" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="1619:1692" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="1741:1793" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205006823" expanded="true" signature="1838:2043" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="1920:1995" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="2057:2107" ph="/* Vytvori rovnicicse scitanim a odcitanim ... */" />
+            <marker date="1595205006823" expanded="true" signature="2168:2558" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="2355:2420" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="2433:2498" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="2559:2595" ph="/* Vytvori rovnici nasobenim ... */" />
+            <marker date="1595205006823" expanded="true" signature="2651:2892" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="2893:2932" ph="/* Vytvori odpoved pro talcitka ... */" />
+            <marker date="1595205006823" expanded="true" signature="3011:4507" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="3107:3782" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="3202:3477" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="3320:3396" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="3494:3771" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="3613:3689" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="3795:4476" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="3896:4171" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="4014:4090" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="4188:4465" ph="{...}" />
+            <marker date="1595205006823" expanded="true" signature="4307:4383" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Even1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <marker date="1595205137509" expanded="false" signature="6:122" ph="..." />
+            <marker date="1595205137509" expanded="true" signature="123:196" ph="/* Trida dedi od ACogGame a zajistuje kognitivni minihru rovnice ... */" />
+            <marker date="1595205137509" expanded="true" signature="271:582" ph="{...}" />
+            <marker date="1595205137509" expanded="true" signature="345:395" ph="{...}" />
+            <marker date="1595205137509" expanded="true" signature="588:646" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205137509" expanded="true" signature="690:747" ph="{...}" />
+            <marker date="1595205137509" expanded="true" signature="752:810" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205137509" expanded="true" signature="854:911" ph="{...}" />
+            <marker date="1595205137509" expanded="true" signature="916:974" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205137509" expanded="true" signature="1020:1077" ph="{...}" />
+            <marker date="1595205137509" expanded="true" signature="1082:1140" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205137509" expanded="true" signature="1184:1239" ph="{...}" />
+            <marker date="1595205137509" expanded="true" signature="1244:1302" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205137509" expanded="true" signature="1347:1403" ph="{...}" />
+            <marker date="1595205137509" expanded="true" signature="1408:1466" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205137509" expanded="true" signature="1511:1568" ph="{...}" />
+            <marker date="1595205137509" expanded="true" signature="1573:1631" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205137509" expanded="true" signature="1676:1735" ph="{...}" />
+            <marker date="1595205137509" expanded="true" signature="1740:1795" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205137509" expanded="true" signature="1853:2130" ph="{...}" />
+            <marker date="1595205137509" expanded="true" signature="2046:2096" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/Sequence.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2595">
+          <caret line="191" column="45" selection-start-line="191" selection-start-column="45" selection-end-line="191" selection-end-column="45" />
+          <folding>
+            <marker date="1595205663005" expanded="false" signature="6:171" ph="..." />
+            <marker date="1595205663005" expanded="true" signature="172:247" ph="/* Trida dedi od ACogGame a zajistuje kognitivni minihru posloupnosti. ... */" />
+            <marker date="1595205663005" expanded="true" signature="280:4207" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="291:374" ph="/* Abstraktni Funkce ktera vytvari ukolovou otazku a odpovedi na tlacitkach ... */" />
+            <marker date="1595205663005" expanded="true" signature="415:734" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="489:539" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="740:792" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205663005" expanded="true" signature="835:899" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="900:952" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205663005" expanded="true" signature="996:1060" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="1061:1113" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205663005" expanded="true" signature="1157:1213" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="1214:1266" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205663005" expanded="true" signature="1310:1366" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="1367:1419" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205663005" expanded="true" signature="1462:1519" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="1520:1572" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205663005" expanded="true" signature="1615:1673" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="1674:1726" ph="/* Funkce pro vytvoreni minihry dane narocnosti ... */" />
+            <marker date="1595205663005" expanded="true" signature="1771:1829" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="1830:1865" ph="/* Funkce vytvari posloupnost ... */" />
+            <marker date="1595205663005" expanded="true" signature="1931:2684" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="2051:2118" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="2185:2367" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="2380:2429" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="2498:2655" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="2686:2731" ph="/* Vytvari posloupnost s chybou ... */" />
+            <marker date="1595205663005" expanded="true" signature="2770:3590" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="3010:3060" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="3111:3321" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="3248:3311" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="3374:3562" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="3593:3677" ph="/* Funkce kontroluje, zdali vygenerovane cislo jiz v posloupnosti neni ... */" />
+            <marker date="1595205663005" expanded="true" signature="3736:3911" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="3798:3882" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="3921:3978" ph="/* Zjistuje, zdalji je posloupnost spante ... */" />
+            <marker date="1595205663005" expanded="true" signature="4017:4205" ph="{...}" />
+            <marker date="1595205663005" expanded="true" signature="4081:4167" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/CognitiveGame/Scripts/CognitiveGameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="153" column="62" selection-start-line="153" selection-start-column="62" selection-end-line="153" selection-end-column="62" />
+          <folding>
+            <marker date="1595205913457" expanded="false" signature="6:172" ph="..." />
+            <marker date="1595205913457" expanded="true" signature="174:296" ph="/* Trida vybira mezi Kognitivnimi minhrami a zajistuje predani veskerych potrebnych referenci prislousnym minihra ... */" />
+            <marker date="1595205913457" expanded="true" signature="346:3866" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="1277:1382" ph="/* Event funkce spustena pred vytvorenim instance. Funkce naplni pole miniher a nejakou vybere ... */" />
+            <marker date="1595205913457" expanded="true" signature="1399:1674" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="1764:1802" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="1839:1883" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="1924:1968" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="1971:2034" ph="/* Vybira minihru na zaklade urovne obtiznosti ... */" />
+            <marker date="1595205913457" expanded="true" signature="2064:2321" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="2327:2417" ph="/* Vytvori pole plne jen miniher, ktere jsou definovane na dale obtiznosti ... */" />
+            <marker date="1595205913457" expanded="true" signature="2460:2923" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="2558:2643" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="2739:2891" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="2793:2881" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="2925:3010" ph="/* Funkce spustena tlacitkem. Zajistuje se kontrola spravnosti odovdedi ... */" />
+            <marker date="1595205913457" expanded="true" signature="3038:3216" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="3068:3146" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="3159:3210" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="3218:3300" ph="/* Funkce spustena tlacitkem. Zajistuje se kontrola spravnosti odovdedi ... */" />
+            <marker date="1595205913457" expanded="true" signature="3329:3508" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="3360:3438" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="3451:3502" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="3513:3595" ph="/* Funkce pro spracnou odpovde, ktera zajisti dalsi funkce ... */" />
+            <marker date="1595205913457" expanded="true" signature="3627:3864" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="3695:3769" ph="{...}" />
+            <marker date="1595205913457" expanded="true" signature="3782:3849" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/BonusManager/Script/BonusManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4875">
+          <caret line="347" column="127" selection-start-line="347" selection-start-column="127" selection-end-line="347" selection-end-column="127" />
+          <folding>
+            <marker date="1595201472427" expanded="false" signature="6:71" ph="..." />
+            <marker date="1595201472427" expanded="true" signature="72:200" ph="/* Trida obstarava Bonusy. Stara se o jijich vytvoreni, hlida jejich dobu trvani a pote se postara i o jejich dea ... */" />
+            <marker date="1595201472427" expanded="true" signature="243:8445" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="722:812" ph="/* Funkce slouzi pro zjisteni, zdali existuje dalsi kulicka ve hre. ... */" />
+            <marker date="1595201472427" expanded="true" signature="849:1202" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="1207:1333" ph="/* Event funkce ktera je spustena pri vytvareni instance. Zde si pouze uklada rychlost kulicky. ... */" />
+            <marker date="1595201472427" expanded="true" signature="1359:1439" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="1445:1506" ph="/* Funkce pro zastaveni bonusu ... */" />
+            <marker date="1595201472427" expanded="true" signature="1534:1565" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="1593:1669" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="1700:1770" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="1798:1868" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="1896:1972" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="1978:2116" ph="/* Slouzi pro nastaveni bonusu. Ulozi si aktualni cas a podle typu bonusu zavola prislsnou funkci pro jeho aktiva ... */" />
+            <marker date="1595201472427" expanded="true" signature="2161:2665" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="2381:2659" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="2670:2773" ph="/* Funkce urcuje, zdali je prave aktivovany bonus a nove zachyceny bonus stejny. ... */" />
+            <marker date="1595201472427" expanded="true" signature="2821:2945" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="2951:3028" ph="/* Funkce slouzi pro ulozeni skriptu platformControler ... */" />
+            <marker date="1595201472427" expanded="true" signature="3052:3121" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="3127:3199" ph="/* Zajisti spusteni bonusu pro strelbu projektylu ... */" />
+            <marker date="1595201472427" expanded="true" signature="3223:3300" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="3306:3402" ph="/* Zajisti vytvoreni dalsich dvou kulicek a nstavi jim pocatecni hodnoty. ... */" />
+            <marker date="1595201472427" expanded="true" signature="3426:4153" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="4159:4232" ph="/* Zajisti spusteni bonusu, ktery zvetsi platformu ... */" />
+            <marker date="1595201472427" expanded="true" signature="4262:4343" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="4349:4472" ph="/* Funkce zajisit spusteni spravne funkce, ktera deaktivuje bonus, podle aktulane spusteneho bonuusu ... */" />
+            <marker date="1595201472427" expanded="true" signature="4499:4840" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="4535:4834" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="4875:4951" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="4957:5023" ph="/* Preda inforamci o zniceni cihlicky GameManageru ... */" />
+            <marker date="1595201472427" expanded="true" signature="5070:5157" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="5163:5302" ph="/* Funkce slouzi pro daktivaci bonusu se tremi kulickami. Funkce musi urcit, kterou kulicku ponechat a ktere znic ... */" />
+            <marker date="1595201472427" expanded="true" signature="5333:7092" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="5774:6378" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="5840:5930" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="5987:6077" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="6126:6228" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="6245:6347" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="6431:6755" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="6622:6723" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="6808:7051" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="6918:7019" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="7095:7175" ph="/* Funkce slouzi k rozhodnuti, ktera kulicka je vyse v hernim poli ... */" />
+            <marker date="1595201472427" expanded="true" signature="7237:7365" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="7372:7453" ph="/* Funkce zjistii nejvyse umistenou kulicku v hernim poli ... */" />
+            <marker date="1595201472427" expanded="true" signature="7491:7966" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="7573:7686" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="7765:7878" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="7993:8082" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="8085:8230" ph="/* Event funkce spoustena v kazdem framu. Hlida jestli bonus jiz nevyprsel a popripade zajisti zavolani funkci pr ... */" />
+            <marker date="1595201472427" expanded="true" signature="8248:8443" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="8275:8437" ph="{...}" />
+            <marker date="1595201472427" expanded="true" signature="8339:8427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/ConnestionStatus/Script/ConnectionStatus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <marker date="1595254936960" expanded="false" signature="6:113" ph="..." />
+            <marker date="1595254936960" expanded="true" signature="114:212" ph="/* Trida slouzi pro vypsani stavu pripojen MindwaveNeurosky do prislusneho textoveho pole ... */" />
+            <marker date="1595254936960" expanded="true" signature="258:840" ph="{...}" />
+            <marker date="1595254936960" expanded="true" signature="338:430" ph="{...}" />
+            <marker date="1595254936960" expanded="true" signature="455:506" ph="{...}" />
+            <marker date="1595254936960" expanded="true" signature="532:584" ph="{...}" />
+            <marker date="1595254936960" expanded="true" signature="612:663" ph="{...}" />
+            <marker date="1595254936960" expanded="true" signature="698:752" ph="{...}" />
+            <marker date="1595254936960" expanded="true" signature="788:838" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefab/UIValueChanger/Script/UIValueChanger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <marker date="1595254938593" expanded="true" signature="6:152" ph="..." />
+            <marker date="1595254938593" expanded="true" signature="155:268" ph="/* Trida slouzi pro proojeni nastaveni a Setting Manageru. Trida ma nastarosti obousmernou spravnost dat. ... */" />
+            <marker date="1595254938593" expanded="true" signature="312:6401" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="1552:3395" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="1602:1873" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="3262:3389" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="3429:3770" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="3811:3987" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="4022:4380" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="4047:4128" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="4163:4228" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="4241:4305" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="4407:4459" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="4484:4536" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="4561:4613" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="4650:4816" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="4855:5050" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="5097:5579" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="5122:5203" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="5237:5364" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="5377:5502" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="5625:5806" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="5843:6009" ph="{...}" />
+            <marker date="1595254938593" expanded="true" signature="6047:6389" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
